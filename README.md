@@ -5,5 +5,3 @@
 | ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rpznicholasp&theme=react) | ![Github Stars](https://github-readme-stats.vercel.app/api?username=rpznicholasp&show_icons=true&locale=en&count_private=true&hide_rank=true&custom_title=My%20GitHub%20Stats&disable_animations=true&theme=react) |
 
 <br>
-
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rpznicholasp&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
