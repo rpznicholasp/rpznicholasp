@@ -6,4 +6,4 @@
 
 <br>
 
-<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=abhigyantrips&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
+<img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=rpznicholasp&amp;show_icons=true&amp;theme=gruvbox&amp;hide_border=true">
